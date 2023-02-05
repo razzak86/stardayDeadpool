@@ -11,9 +11,8 @@ public class AccessModifier {
 	String address =" Heritage Tower"; 
 			
 			
-
+	// Khaled made a change here..
 
 }
 
 
-// Khaled made a change here
